@@ -113,3 +113,25 @@ body {
     justify-content: center;
     align-items: center;
 }
+
+.image-hero {
+    width: 250px;
+    height: 250px; 
+    object-fit: cover;
+}
+
+.title {
+    font-family: 'Raleway', sans-serif;
+}
+
+.subtitle {
+    letter-spacing: 10px;
+}
+
+#hero {
+    height: 95vh;
+}
+
+.text-about {
+    text-align: justify;
+}
